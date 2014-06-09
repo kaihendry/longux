@@ -1,4 +1,4 @@
-<form action="js-logtail/">
+<form action=long.php>
 <button>Kick off a long running process</button>
 </form>
 
